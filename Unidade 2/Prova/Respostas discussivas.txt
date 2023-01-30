@@ -1,0 +1,6 @@
+### Problema 5, Letra b ###
+
+Não foi possível, à "olho nu", perceber uma diferença de tempo entre os dois programas. O que deu pra sentir é que o tempo gasto para os dois é o mesmo. Apesar disso, quando utilizamos uma função para calcular o intervalo de tempo (que o senhor usou no programa das molas), obtemos que para o método de Gauss-Jordan, dt1 = 0.0538370260001102; enquanto que para o método de Eliminação Gaussiana, dt2 = 0.032312410000486125. Imperceptível aos olhos humanos: |dif| = dt1 - dt2 = 0.021524616. 
+
+
+### Problema 5, Letra c ###
